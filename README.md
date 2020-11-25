@@ -1,1 +1,1 @@
-# LogicProg
+# Curso: Lógica de Programación
